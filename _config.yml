@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/Home"
-url: "https://rjsavant.github.io"
+url: "https://rasavant-ms.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
